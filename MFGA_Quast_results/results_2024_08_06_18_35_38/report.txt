@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    Bombus_terrertris  Genlisea_aurea  Sciurus_vulgaris
+# contigs (>= 0 bp)         249                10684           617             
+# contigs (>= 1000 bp)      249                10675           615             
+# contigs (>= 5000 bp)      249                2600            583             
+# contigs (>= 10000 bp)     249                737             542             
+# contigs (>= 25000 bp)     232                57              417             
+# contigs (>= 50000 bp)     182                8               195             
+Total length (>= 0 bp)      392962041          43357795        210224203       
+Total length (>= 1000 bp)   392962041          43349223        210222746       
+Total length (>= 5000 bp)   392962041          24409446        210117532       
+Total length (>= 10000 bp)  392962041          11650033        209809742       
+Total length (>= 25000 bp)  392626575          2204475         207485553       
+Total length (>= 50000 bp)  390882755          698703          199582550       
+# contigs                   249                10684           617             
+Largest contig              25524254           169254          17498449        
+Total length                392962041          43357795        210224203       
+GC (%)                      38.70              40.61           39.47           
+N50                         14593050           5786            6038668         
+N90                         1035857            1767            187437          
+auN                         14130465.1         9329.8          6987069.8       
+L50                         10                 2092            10              
+L90                         36                 7435            70              
+# N's per 100 kbp           3.52               3.42            60440.20        
